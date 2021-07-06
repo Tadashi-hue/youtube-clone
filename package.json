@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tadashi-hue/youtube-clone/issues"
   },
-  "homepage": "https://github.com/Tadashi-hue/youtube-clone#readme"
+  "homepage": "https://github.com/Tadashi-hue/youtube-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
